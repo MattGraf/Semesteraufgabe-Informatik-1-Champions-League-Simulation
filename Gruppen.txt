@@ -1,0 +1,159 @@
+Gruppe A
+
+FC Liverpool
+SSC Neapel
+Glasgow Rangers
+Ajax Amsterdam
+
+4 : 3 = 4:0
+2 : 1 = 4:1
+1 : 4 = 2:1
+3 : 2 = 0:3
+4 : 2 = 1:6
+1 : 3 = 2:0
+2 : 4 = 4:2
+3 : 1 = 1:7
+4 : 1 = 0:3
+2 : 3 = 3:0
+3 : 4 = 1:3
+1 : 2 = 2:0
+
+Gruppe B
+
+FC Porto
+Club Bruegge
+Bayer 04 Leverkusen
+Atletico Madrid
+
+2 : 3 = 1:0
+4 : 1 = 2:1
+3 : 4 = 2:0
+1 : 2 = 0:4
+2 : 4 = 2:0
+1 : 3 = 2:0
+4 : 2 = 0:0
+3 : 1 = 0:3
+2 : 1 = 0:4
+4 : 3 = 2:2
+3 : 2 = 0:0
+1 : 4 = 2:1
+
+Gruppe C
+
+Bayern Muenchen
+Inter Mailand
+FC Barcelona
+Viktoria Pilsen
+
+2 : 1 = 0:2
+3 : 4 = 5:1
+4 : 2 = 0:2
+1 : 3 = 2:0
+1 : 4 = 5:0
+2 : 3 = 1:0
+4 : 1 = 2:4
+3 : 2 = 3:3
+2 : 4 = 4:0
+3 : 1 = 0:3
+4 : 3 = 2:4
+1 : 2 = 2:0
+
+Gruppe D
+
+Tottenham Hotspur
+Eintracht Frankfurt
+Sporting Lissabon
+Olympique Marseille
+
+2 : 3 = 0:3
+1 : 4 = 2:0
+3 : 1 = 2:0
+4 : 2 = 0:1
+4 : 3 = 4:1
+2 : 1 = 0:0
+3 : 4 = 0:2
+1 : 2 = 3:2
+2 : 4 = 2:1
+1 : 3 = 1:1
+4 : 1 = 1:2
+3 : 2 = 1:2
+
+Gruppe E
+
+FC Chelsea
+AC Mailand
+RB Salzburg
+Dinamo Zagreb
+
+4 : 1 = 1:0
+3 : 2 = 1:1
+2 : 4 = 3:1
+1 : 3 = 1:1
+3 : 4 = 1:0
+1 : 2 = 3:0
+2 : 1 = 0:2
+4 : 3 = 1:1
+3 : 1 = 1:2
+4 : 2 = 0:4
+2 : 3 = 4:0
+1 : 4 = 2:1
+
+Gruppe F
+
+Real Madrid
+RB Leipzig
+Schachtar Donezk
+Celtic Glasgow
+
+2 : 3 = 1:4
+4 : 1 = 0:3
+3 : 4 = 1:1
+1 : 2 = 2:0
+2 : 4 = 3:1
+1 : 3 = 2:1
+4 : 2 = 0:2
+3 : 1 = 1:1
+2 : 1 = 3:2
+4 : 3 = 1:1
+3 : 2 = 0:4
+1 : 4 = 5:1
+
+Gruppe G
+
+Manchester City
+Borussia Dortmund
+FC Sevilla
+FC Kopenhagen
+
+2 : 4 = 3:0
+3 : 1 = 0:4
+4 : 3 = 0:0
+1 : 2 = 2:1
+3 : 2 = 1:4
+1 : 4 = 5:0
+4 : 1 = 0:0
+2 : 3 = 1:1
+3 : 4 = 3:0
+2 : 1 = 0:0
+4 : 2 = 1:1
+1 : 3 = 3:1
+
+Gruppe H
+
+Benfica Lissabon
+Paris St. Germain
+Juventus Turin
+Maccabi Haifa
+
+1 : 4 = 2:0
+2 : 3 = 2:1
+4 : 2 = 1:3
+3 : 1 = 1:2
+1 : 2 = 1:1
+3 : 4 = 3:1
+4 : 3 = 2:0
+2 : 1 = 1:1
+1 : 3 = 4:3
+2 : 4 = 7:2
+4 : 1 = 1:6
+3 : 2 = 1:2
